@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a060497e-b99d-4ce6-a4b3-40bc12399f36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/error/APIBaseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/error/ApiHandleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/error/ErrorDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/error/NotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/error/OtherException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/error/UserOrEmailAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/error/ValidationError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/gender/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/gender/GenderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/role/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/role/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/security/AuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/security/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/security/TokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/security/UserDetailsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/CreateUserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/LoginDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/validator/BirthdayValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/validator/EmailDomainValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/validator/GenderEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/validator/PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/validator/UsernameValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/validator/ValidBirthday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/validator/ValidEmailDomain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/validator/ValidPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/org/SRS/user/validator/ValidUsername.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="32y5viuXS1HpZkcjjG7sSNwp1zR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/PC/IdeaProjects/SRS/src"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a060497e-b99d-4ce6-a4b3-40bc12399f36" name="Changes" comment="" />
+      <created>1758380203934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758380203934</updated>
+    </task>
+    <servers />
+  </component>
+</project>
